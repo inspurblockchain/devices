@@ -10,7 +10,7 @@
 4. **INSTALL**：驱动模块生成器
 5. **libswhkey.so**：密码卡管理动态库
 6. **libswsds.so**：密码卡使用动态库
-7. **TestSDS_CSM30_v3.5_aarch64**：密码卡测试程序
+
 
 
 
